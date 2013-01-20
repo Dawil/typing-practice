@@ -1,0 +1,6 @@
+temp
+dist
+*.swp
+app/scripts/*.js
+app/scripts/*/*.js
+!app/scripts/vendor/*.js
